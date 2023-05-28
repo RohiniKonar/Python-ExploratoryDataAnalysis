@@ -21,4 +21,4 @@
         1. Builds and evaluates three different regression models: Random Forest, Linear Regression, and Support Vector Machines (SVM).
         2. Uses pipelines and grid search with cross-validation to find the best model hyperparameters.
         3. Stores the best model and its parameters for later use.
-        4. Compares the performance of the models on the test set using evaluation metrics such as mean squared error (MSE), mean absolute error (MAE), and              R-squared score.
+        4. Compares the performance of the models on the test set using evaluation metrics such as mean squared error (MSE), mean absolute error (MAE), and   R-squared score.
