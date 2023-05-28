@@ -1,5 +1,7 @@
 # Python - Exploratory Data Analysis
 
+Below is the description of what the python program is doing:
+
     Exploratory Data Analysis (EDA):
         1. Reads the dataset from the "parkinson_sample.csv" file using pd.read_csv().
         2. Prints a summary of the dataset using df.describe().
