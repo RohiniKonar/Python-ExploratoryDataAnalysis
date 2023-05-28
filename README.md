@@ -1,1 +1,1 @@
-# Python-EcploratoryDataAnalysis
+# Python-ExploratoryDataAnalysis
